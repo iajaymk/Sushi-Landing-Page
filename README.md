@@ -44,7 +44,7 @@ git clone https://github.com/iajaymk/Sushi-Landing-Page.git
 ### 2️⃣ Navigate into the project
 
 ```bash
-cd sushiman
+cd Sushi-Landing-Page
 ```
 
 ### 3️⃣ Install dependencies
